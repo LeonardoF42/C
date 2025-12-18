@@ -1,0 +1,13 @@
+# Ignorar tudo por padrão
+*
+
+# Abrir exceção para pastas
+!*/
+
+# Abrir exceção para arquivos de código e configuração
+!*.c
+!*.h
+!*.txt
+!Makefile
+!.gitignore
+!README.md
