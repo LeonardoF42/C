@@ -1,0 +1,21 @@
+Exercícios
+​1. Fézinha da mega
+Crie um programa em C que simule a geração de 6 números aleatórios entre 1 e 60, como em um jogo de loteria (ex: Mega Sena). Os números devem ser exibidos na tela. Não é necessário garantir que os números sejam diferentes entre si neste primeiro momento.
+
+2. Cadastro de idade
+Um sistema de cadastro recebe a idade de uma pessoa como texto (string). Escreva um programa em C que leia essa informação como uma string e depois converta para inteiro usando atoi. Em seguida, exiba a idade e verifique se a pessoa é maior de idade (18 anos ou mais).
+
+
+3. Conversor de temperatura
+Um sensor envia a temperatura de um ambiente como texto, por exemplo "25.7". Escreva um programa que leia essa temperatura como string, converta para float com atof e depois informe se o ambiente está frio (abaixo de 18°C), agradável (entre 18°C e 26°C) ou quente (acima de 26°C).
+
+4. Detector de caracteres proibidos
+Imagine que você está desenvolvendo um sistema para um jogo online que proíbe o uso de certos caracteres especiais no nome dos jogadores. Escreva um programa em C que:
+Leia o nome de usuário digitado pelo jogador (máximo 50 caracteres);
+Calcule o tamanho do nome usando strlen();
+Verifique se o nome contém algum dos seguintes caracteres proibidos: @, #, $, %, !;
+Informe ao usuário quantos caracteres inválidos foram encontrados;
+Mostre uma mensagem avisando se o nome é válido ou inválido com base nessa verificação.
+Exemplo de saída:
+Digite seu nome de usuario: x@bl@u!
+Nome invalido! 3 caractere(s) proibido(s).
