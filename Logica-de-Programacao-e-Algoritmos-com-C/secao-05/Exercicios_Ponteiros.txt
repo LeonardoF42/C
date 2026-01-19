@@ -1,0 +1,13 @@
+Exercícios
+
+Exercício 1: Soma de Dois Números com Ponteiros
+Crie uma função soma que recebe dois ponteiros para inteiros e retorna a soma dos valores apontados.
+
+Exercício 2: Vetor Dinâmico com Média
+Aloque dinamicamente um vetor de n floats (digitado pelo usuário), preencha-o com valores e calcule a média.
+
+Exercício 3: Inversão de String com Ponteiros
+Crie uma função que inverte uma string alocada dinamicamente usando ponteiros.
+
+Exercício 4: Matriz Dinâmica com Soma de Linhas
+Aloque dinamicamente uma matriz m x n, preencha-a e imprima a soma de cada linha.
