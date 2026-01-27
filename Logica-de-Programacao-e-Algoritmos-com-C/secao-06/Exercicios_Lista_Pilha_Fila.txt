@@ -1,0 +1,18 @@
+Exercícios
+
+1. Crie uma estrutura chamada pessoa com os campos: nome, idade e altura. Leia os dados de 3 pessoas e imprima os dados da mais velha.
+
+2. Crie uma union chamada Valor que possa armazenar um inteiro, um float ou um char. Crie um programa que permita ao usuário escolher qual tipo deseja armazenar e mostre o valor.
+
+3. Implemente uma lista ligada simples que insere 5 números inteiros no final da lista e imprime todos.​
+
+4. A partir do exercício anterior, adicione uma função que busca um número na lista e retorna se foi encontrado ou não.​
+
+5. Escreva um programa em C que verifica se os parênteses em uma expressão matemática estão balanceados usando uma pilha. Exemplo:
+Entrada: (2+3)*(4+(5-1)) → Saída: Balanceado
+Entrada: ((3+4)*(2-1) → Saída: Não balanceado​
+
+6. Implemente uma fila para simular o atendimento em um banco. O programa deve permitir:
+Inserir cliente na fila
+Atender (remover) o próximo cliente
+Mostrar a fila atual
